@@ -1,0 +1,14 @@
+*.egg
+*.egg-info
+*.pyc
+*~
+.#*
+.cache
+.tox
+/.coverage
+/.venv*
+/build/
+/dist/
+/tmp
+
+flycheck_*.py
